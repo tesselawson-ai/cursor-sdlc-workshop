@@ -26,6 +26,24 @@ Each team member creates their own file in this folder.
 **Fun fact:** I once debugged a production issue while skydiving (not recommended)
 ```
 
+## Example File Structure
+
+When your team is done, this folder should look like:
+
+```
+members/
+├── README.md
+├── alice.md
+├── bob.md
+├── carlos.md
+├── diana.md
+└── eve.md
+```
+
+Each `.md` file contains that person's info using the template above.
+
+---
+
 ## Why This Matters
 
 This is your first git exercise! Everyone on the team will:

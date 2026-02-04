@@ -24,7 +24,7 @@
 ### Good Project Ideas
 - A simple Chrome extension (e.g., changes page colors, adds a button)
 - A single-page web app (e.g., a counter, a todo list, a timer)
-- A CLI tool (e.g., a greeting generator, a random quote picker)
+- A typing-speed game that measures your words per minute
 
 ### Bad Project Ideas (Too Big!)
 - Anything with a database
